@@ -5,7 +5,8 @@
 [![keleonor's 42 stats](https://badge42.herokuapp.com/api/stats/keleonor?cursus=C%20Piscine)]
 
 
-![Uliana Gubanova - копия](https://user-images.githubusercontent.com/75734396/145996180-1d01098a-a421-4c9c-9b22-f63df08560dc.png)
+![Uliana_Gubanova - копия](https://user-images.githubusercontent.com/75734396/145996988-110607ff-8bc5-426e-a266-851754298f20.png)
+
 
 
 
