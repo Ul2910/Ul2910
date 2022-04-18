@@ -1,11 +1,11 @@
 ##### Hello world! I am a student of 42-network (Kyoko Eleonora is my nickname there).
 
-[![keleonor's 42 stats](https://badge42.herokuapp.com/api/stats/keleonor)]
+[![keleonor's 42 stats](https://badge42.vercel.app/api/v2/cl251t6um005909l7xx9gsd9t/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
-[![keleonor's 42 stats](https://badge42.herokuapp.com/api/stats/keleonor?cursus=C%20Piscine)]
+[![keleonor's 42 stats](https://badge42.vercel.app/api/v2/cl251t6um005909l7xx9gsd9t/stats?cursusId=21&coalitionId=102)](https://github.com/JaeSeoKim/badge42)
 
 
-![Uliana_Gubanova - копия](https://user-images.githubusercontent.com/75734396/145996988-110607ff-8bc5-426e-a266-851754298f20.png)
+
 
 
 
